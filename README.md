@@ -1,5 +1,5 @@
 # Vagrant With Chef
-Basic usage of Vagrant and Chef to automate the construction of a web server using a virtual machine
+Basic usage of Vagrant and Chef to automate the construction of a web server using a virtual machine.
 
 ## Usage
 Using Vagrant, build the virtual machine according to the content of Vagrantfile. Before starting, check you have installed Vagrant and VirtualBox (latest version for both).
